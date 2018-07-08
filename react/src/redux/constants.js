@@ -1,0 +1,7 @@
+const constants = {
+    LOAD_STORE_LIST: "LOAD_STORE_LIST",
+    LOAD_STORE_DETAILS: "LOAD_STORE_DETAILS",
+    LOAD_CHARITY_DETAILS: "LOAD_CHARITY_DETAILS"
+}
+
+export default constants

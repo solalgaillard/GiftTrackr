@@ -1,0 +1,26 @@
+.nav {
+    background-color: #37474f;
+
+}
+
+.back {
+    height: 30px;
+    margin-top: 20px;
+}
+
+.title{
+    font-size: 45px;
+    margin-left: 40px;
+    margin-right:40px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+}
+
+.cart{
+    float: right;
+    margin-top: 20px;
+    opacity: 100%;
+    max-width : 40px;
+    max-height : 40px;
+}
